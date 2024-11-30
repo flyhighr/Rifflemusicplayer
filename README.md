@@ -66,7 +66,7 @@ python riffle.py
 5. Open a Pull Request
 
 ### Reporting Issues
-- 🐞 Bug Reports: [GitHub Issues](https://github.com/flyhigh/Rifflemusicplayer/issues)
+- 🐞 Bug Reports: [GitHub Issues](https://github.com/flyhighr/Rifflemusicplayer/issues)
 - ✨ Feature Requests: [GitHub Issues](https://github.com/flyhighr/Rifflemusicplayer/issues)
 
 ## Roadmap
