@@ -91,7 +91,7 @@ Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE` for more informa
 
 ---
 
-### We ❤️ Feedback!
-Found a bug? Have a suggestion? Please share your experience and help us improve Riffle!
+### ❤️ Feedback!
+Found a bug? Have a suggestion? Please share your experience and help me improve Riffle!
 
 **Leave a :star: if you like the project!**
