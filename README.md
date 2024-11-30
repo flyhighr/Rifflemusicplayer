@@ -1,7 +1,7 @@
 # Riffle Music Player
 
 ## Overview
-Riffle is a feature-rich, customizable desktop music player built with Python, with a friendly interface for managing and enjoying music :).
+Riffle is a customizable desktop music player built with Python, with a friendly interface for managing and enjoying music :).
 
 ![Riffle](https://github.com/flyhighr/Rifflemusicplayer/blob/main/Images/Screenshot%202024-11-30%20191451.png?raw=true)
 ![Riffle](https://github.com/flyhighr/Rifflemusicplayer/blob/main/Images/Screenshot%202024-11-30%20191536.png?raw=true)
