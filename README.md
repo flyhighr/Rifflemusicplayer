@@ -49,6 +49,9 @@ cd riffle
 ```bash
 pip install pygame mutagen pillow customtkinter
 ```
+```bash
+pip install requirements.txt
+```
 
 3. Run the application
 ```bash
